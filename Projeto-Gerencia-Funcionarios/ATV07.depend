@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1562950120 source:c:\users\pedro\documents\t.i\atv07\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<locale.h>
+	"defstruct.h"
+	"funçoes.h"
+	<stdlib.h>
+
+1562949819 c:\users\pedro\documents\t.i\atv07\defstruct.h
+
+1562951669 c:\users\pedro\documents\t.i\atv07\funçoes.h
+	<fstream>
+	<iostream>
+	<iomanip>
+
